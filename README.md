@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 🎓 &nbsp; Studying Data Science at Bloomtech.
 <!-- - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited. -->
 - 🌱 &nbsp; Learning more about machine learning and statistics.
+- 🌱 &nbsp; Revisiting data structures and algorithms
 
 <br/>
 
