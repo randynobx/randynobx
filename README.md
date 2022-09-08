@@ -21,6 +21,7 @@ When I'm not busy automating and optimizing workflows, you can find me surfing a
             <li>Web Dashboard (<em>Project Lead</em>)</li>
         </ul>
     <li>Studying data architecture concepts</li>
+    <li>Reading <a href="https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087"><em>The Signal and The Noise</em></a> by Nate Silver</li>
 </ul>
 
 <hr />
