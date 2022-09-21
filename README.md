@@ -15,9 +15,9 @@ When I'm not busy automating and optimizing workflows, you can find me surfing a
 
 <h3> What I'm working on </h3>
 <ul>
-    <li>Boardgame Analytics Project:
+    <li><a href="https://github.com/boardgameanalytics/">Boardgame Analytics Project</a>:
         <ul>
-            <li><a href="https://github.com/randynobx/boardgame-pipeline">Pipeline</a> (<em>Data Engineer</em>)</li>
+            <li><a href="https://github.com/boardgameanalytics/bga-pipeline">Pipeline</a> (<em>Data Engineer</em>)</li>
             <li>Web Dashboard (<em>Project Lead</em>)</li>
         </ul>
     <li>Studying data architecture concepts</li>
