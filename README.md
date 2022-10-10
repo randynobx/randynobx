@@ -45,7 +45,7 @@ The Noise</em></a> by Nate Silver</li>
 <a title="SQLite" href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a title="Pandas" href="https://pandas.pydata.org/" target="pandas" rel="noreferrer"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" height="40"/></a>
 <a title="Numpy" href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/secondary/numpylogo2.png" alt="numpy" height="40"/></a>
-
+<a title="MongoDB" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://d3cy9zhslanhfa.cloudfront.net/media/3800C044-6298-4575-A05D5C6B7623EE37/0ED35984-8146-41EA-999110E2099C206A/thul-876298A8-C3E1-487D-8AD6920174E16D78.png" alt="mongodb" height="40"/></a>
 <hr />
 
 <h3> Connect with Me </h3>
