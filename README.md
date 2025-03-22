@@ -5,13 +5,13 @@
 I am a former platform administrator and electrician turned software/data engineer who is passionate about automation and data.
 
 I have a diverse background in automation, technical support, SaaS administration, construction, and data science. My 
-career has so far been a winding journey: studied Computer Science at Virginia Tech, worked in technical support and 
-SaaS platform administrator positions, 7 years full time as an electrician, and now as a data engineer. These different 
-experiences and environments have allowed me to develop my own unique set of skills, from problem-solving to 
-communication and project management.
+career has so far been a winding journey: I studied Computer Science at Virginia Tech, worked in technical support and 
+SaaS platform administrator positions, 7 years full time as an electrician, and now over two years into my career as 
+a data engineer. These different experiences and environments have allowed me to develop my own unique set of skills, 
+from problem-solving to communication and project management.
 
-I am, at heart, a problem solver, and am passionate about creating efficient and consistent solutions through critical 
-thinking and automation. I have had the privilege of working with many people from wildly different walks of life and 
+I am, at heart, a problem solver and am passionate about creating efficient and consistent solutions through critical 
+thinking and automation. I have had the privilege of working with people from different walks of life and 
 pride myself on creating efficient and practical solutions that best serve my clients' needs.
 
 
@@ -22,16 +22,8 @@ with friends, or jamming out to the latest metalcore and fusion-jazz releases!
 
 <h3> What I'm working on </h3>
 <ul>
-    <li>MotiveMetrics - Software Engineer</li>
-    <li><a href="https://github.com/boardgameanalytics">BoardGameAnalytics Project</a>:
-        <ul>
-            <li><a href="https://github.com/boardgameanalytics/bga-pipeline">Pipeline</a> - <em>Data Engineer</em></li>
-            <li><a href="https://github.com/boardgameanalytics/bga-rest-api">REST API</a> - <em>Data Engineer</em></li>
-            <li><a href="https://github.com/boardgameanalytics/bga-web-dashboard">Web Dashboard</a> - <em>Project Manager</em></li>
-        </ul></li>
-    <li>Studying data architecture concepts</li>
-    <li>Reading <a href="https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087"><em>The Signal and
-The Noise</em></a> by Nate Silver</li>
+    <li>Studying software and data architecture concepts</li>
+    <li>Reading <a href="[https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)"><em>Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems</em></a></li>
 </ul>
 
 <hr />
@@ -39,6 +31,7 @@ The Noise</em></a> by Nate Silver</li>
 <h3 align="left">Languages and Tools:</h3>
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)]()
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
@@ -52,7 +45,6 @@ The Noise</em></a> by Nate Silver</li>
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)]()
 <!--[![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)]()
