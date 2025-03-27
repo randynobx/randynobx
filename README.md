@@ -2,21 +2,16 @@
 
 <h3> About Me </h3>
 
-I am a former platform administrator and electrician turned software/data engineer who is passionate about automation and data.
+I’ve always been drawn to solving complex problems, whether technical or otherwise. My journey has taken me from the beaches of the Outer Banks to the mountains of Virginia Tech, where I studied Computer Science, and then through a variety of roles—technical support, SaaS platform administration, and even a seven-year stint as an electrician—before making the leap into Software and Data Engineering.
 
-I have a diverse background in automation, technical support, SaaS administration, construction, and data science. My 
-career has so far been a winding journey: I studied Computer Science at Virginia Tech, worked in technical support and 
-SaaS platform administrator positions, 7 years full time as an electrician, and now over two years into my career as 
-a data engineer. These different experiences and environments have allowed me to develop my own unique set of skills, 
-from problem-solving to communication and project management.
+At MotiveMetrics, I started as a Junior Software Engineer and, within six months, was promoted to Software Engineer and designated a tech lead. I thrive on tackling challenging problems, designing scalable solutions, and ensuring communication remains at the core of every technical and strategic decision.
 
-I am, at heart, a problem solver and am passionate about creating efficient and consistent solutions through critical 
-thinking and automation. I have had the privilege of working with people from different walks of life and 
-pride myself on creating efficient and practical solutions that best serve my clients' needs.
+I believe that problem-solving isn’t just about the code—it’s about understanding the needs of the people affected. My background in diverse industries has sharpened my ability to communicate complex ideas in a way that makes sense to any audience, using analogies, visual aids, and active listening to bridge the gap between technical and non-technical stakeholders.
 
+Ultimately, I aim to build and contribute to impactful, cloud-oriented software solutions while fostering clear, effective collaboration. Whether debugging a system, architecting a solution, or leading a team discussion, I always strive to approach challenges with deep technical insight and a people-first mindset.
 
 When I'm not busy automating and optimizing workflows, you can find me surfing at my local break, playing board games 
-with friends, or jamming out to the latest metalcore and fusion-jazz releases!
+with friends, or jamming out to the latest metal and fusion-jazz releases!
 
 <hr />
 
