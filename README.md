@@ -17,8 +17,9 @@ with friends, or jamming out to the latest metal and fusion-jazz releases!
 
 <h3> What I'm working on </h3>
 <ul>
+    <li><a href="https://github.com/boardgameanalytics">BoardGameAnalytics Project</a></li>
     <li>Studying software and data architecture concepts</li>
-    <li>Reading <a href="[https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)"><em>Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems</em></a></li>
+    <li>Reading <a href="https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321"><em>Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems</em></a></li>
 </ul>
 
 <hr />
